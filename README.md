@@ -98,8 +98,10 @@ The American Academy showed work by "eminent" American artists, mostly Benjamin 
 Nineteenth-Century San Francisco Art Exhibition Catalogues: A Descriptive Checklist and Index (ed. Ellen Halteman Schwartz, 1981)	Index to works shown at small galleries and single-artist shows in San Francisco during the nineteenth century. Complementary to Halteman, Publications in California Art, no. 7.
 
 #Whiteley Index of Salon Painting
+
 Jon Whiteley, The Subject Index to Paintings Exhibited at the Paris Salon, 1673–1881 (1993), Sackler Library, University of Oxford, and in Catalogues
 of the Paris Salon, 1673 to 1881, 60 vols., ed. H. W. Janson (New York: Garland, 1977)
 
 #The Royal Academy Summer Exhibition: A Chronicle
+
 Catalogs of the Exhibitions of the Royal Academy, 1769 to 1914, https:// www.royalacademy.org.uk/art-artists/search/exhibition-catalogues; The Royal Academy Summer Exhibition: A Chronicle, 1769–2018, ed. Mark Hallett, Sarah Victoria Turner, Jessica Feather, Baillie Card, Tom Scutt, and Maisoon Rehani (London: Paul Mellon Centre for Studies in British Art, 2018), https://chronicle250.com.
