@@ -105,3 +105,5 @@ of the Paris Salon, 1673 to 1881, 60 vols., ed. H. W. Janson (New York: Garland,
 #The Royal Academy Summer Exhibition: A Chronicle
 
 Catalogs of the Exhibitions of the Royal Academy, 1769 to 1914, https:// www.royalacademy.org.uk/art-artists/search/exhibition-catalogues; The Royal Academy Summer Exhibition: A Chronicle, 1769–2018, ed. Mark Hallett, Sarah Victoria Turner, Jessica Feather, Baillie Card, Tom Scutt, and Maisoon Rehani (London: Paul Mellon Centre for Studies in British Art, 2018), https://chronicle250.com.
+
+The Stata .dta files for this dataset were too large to upload on GitHub. Therefore, to see both .dta files and corresponding Do files used to process the data visit this link:  https://www.dropbox.com/sh/1lmnnlqe1jbsv5g/AAAVYbEluIXeZAARqaazIWtQa?dl=0
